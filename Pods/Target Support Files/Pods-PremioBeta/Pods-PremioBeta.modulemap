@@ -1,6 +1,0 @@
-framework module Pods_PremioBeta {
-  umbrella header "Pods-PremioBeta-umbrella.h"
-
-  export *
-  module * { export * }
-}
