@@ -3,6 +3,13 @@ Couponing on the Go
 This project does not include GoogleServices-Info.plist in order to send and receive data requests from Firebase.
 You will need to create a Firebase project to generate your own Firebase API key and set up your JSON data in order for the application to function.
 
+# Screenshots
+![](SignUp%20AO%20SS_iphonexspacegrey_portrait.png)
+![](Main%20Screen%20AO%20SS_iphonexspacegrey_portrait.png)
+![](CaliSurf%20AO%20SS_iphonexspacegrey_portrait.png)
+![](SwipeScreen%20AO%20SS_iphonexspacegrey_portrait.png)
+
+# Firebase Setup / How To Use App
 The link below should provide the process of setting up a Firebase Project. Google provides a straight forward approach in getting you started to set up your own Firebase account if you're not familiar with it. 
 
 https://firebase.google.com
